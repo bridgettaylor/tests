@@ -14,7 +14,7 @@ UPDATE BADGE URLS TO MATCH CONTAINER TAG
 
 quick launch | tag | size | metrics | build | status |  
 ------------ | --- | ---- | ------- | ------|--------|
-<a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=19f6a94b-71b6-4034-a7a5-40f7bea0b85b&app-id=75773c76-8ee1-11e9-907f-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a> | [![](https://images.microbadger.com/badges/version/cyversevice/jupyterlab-scipy.svg)](https://microbadger.com/images/cyversevice/jupyterlab-scipy “latest”) |  [![](https://images.microbadger.com/badges/image/cyversevice/jupyterlab-scipy.svg)](https://microbadger.com/images/cyversevice/jupyterlab-scipy “latest”) | [![](https://img.shields.io/docker/pulls/cyversevice/jupyterlab-scipy.svg)](https://hub.docker.com/r/cyversevice/jupyterlab-scipy)  |  [![](https://img.shields.io/docker/cloud/automated/cyversevice/jupyterlab-scipy.svg)](https://hub.docker.com/r/cyversevice/jupyterlab-scipy/builds) | [![](https://img.shields.io/docker/build/cyversevice/jupyterlab-scipy.svg)](https://cloud.docker.com/u/cyversevice/repository/docker/cyversevice/jupyterlab-scipy)
+<a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=91c72a5d-0ce9-484f-a1f1-feba4cab75a5&app-id=bc93504c-d584-11e9-8413-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a> | [![](https://images.microbadger.com/badges/version/cyversevice/jupyterlab-scipy.svg)](https://microbadger.com/images/cyversevice/jupyterlab-scipy “latest”) | [![](https://images.microbadger.com/badges/image/cyversevice/jupyterlab-scipy.svg)](https://microbadger.com/images/cyversevice/jupyterlab-scipy "Get your own image badge on microbadger.com")
 
 # Instructions
 
