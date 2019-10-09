@@ -1,10 +1,8 @@
-#jupyterlab-scipy
-
 [![Project Supported by CyVerse](https://img.shields.io/badge/Supported%20by-CyVerse-blue.svg)](https://learning.cyverse.org/projects/vice/en/latest/) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3246932.svg)](https://doi.org/10.5281/zenodo.3246932) [![license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://opensource.org/licenses/GPL-3.0)  
 
- Jupyterlab-scipy
+# Jupyterlab-scipy
 
-## IMPORTANT: COPY THIS README.MD into any tagged version folder in this repository - Docker Hub will use the README.md in the folder with the Dockerfile
+Jupyter Lab base Docker container recipe based on [Jupyter datascience-notebook](https://hub.docker.com/r/jupyter/scipy-notebook) for [CyVerse VICE](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/index.html). VICE requires additional configuration files to be compatible with our Condor and Kubernetes orchestration. 
 
 PUT INFORMATION ABOUT THE REPOSITORY AND CONTAINER TYPE HERE
 
@@ -20,9 +18,6 @@ quick launch | tag | size | metrics | build | status |
 
 # Instructions
 
-ADD INSTRUCTIONS HERE ON HOW TO LAUNCH THE CONTAINER LOCALLY WHEN USERS ARE BUILDING FIRST IMAGE AND DOING TESTING
-
-example: 
 
 ## Run Docker locally or on a Virtual Machine
 
