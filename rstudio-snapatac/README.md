@@ -2,7 +2,7 @@
 
 # rstudio-snapatac
 
-# VICE app for SnapATAC (Single Nucleus Analysis Pipeline for ATAC-seq) which is a fast and comprehensive method for analyzing single cell ATAC-seq datasets.
+VICE app for SnapATAC (Single Nucleus Analysis Pipeline for ATAC-seq) which is a fast and comprehensive method for analyzing single cell ATAC-seq datasets.
 
 
 [![CircleCI](https://circleci.com/gh/cyverse-vice/rstudio-snapatac.svg?style=svg)](https://circleci.com/gh/cyverse-vice/snapatac)[![DockerHub](https://img.shields.io/badge/DockerHub-brightgreen.svg?style=popout&logo=Docker)](https://hub.docker.com/r/cyversevice/jupyterlab-vscode)
@@ -10,7 +10,7 @@
 
 quick launch | tag | size | metrics | build | status |  
 ------------ | --- | ---- | ------- | ------|--------|
-[![VICE](https://img.shields.io/badge/CyVerse-VICE-blue.svg?style=popout&logo=Docker&color=#1488C6)]() | [![TAG](https://images.microbadger.com/badges/version/reetututeja/rstudio-snapatac.svg)](https://microbadger.com/images/reetututeja/rstudio-snapatac) | [![SIZE](https://images.microbadger.com/badges/image/reetututeja/rstudio-snapatac.svg)](https://microbadger.com/images/reetututeja/rstudio-snapatac) | ![Docker Pulls](https://img.shields.io/docker/pulls/reetututeja/rstudio-snapatac?color=blue&logo=docker&logoColor=white) | ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/reetututeja/rstudio-snapatac?color=blue&logo=docker&logoColor=white) | ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/reetututeja/rstudio-snapatac?color=blue&logo=docker&logoColor=white)
+[![VICE](https://img.shields.io/badge/CyVerse-VICE-blue.svg?style=popout&logo=Docker&color=#1488C6)]() | [![TAG](https://images.microbadger.com/badges/version/reetututeja/rstudio-snapatac.svg)](https://microbadger.com/images/reetututeja/rstudio-snapatac) | [![SIZE](https://images.microbadger.com/badges/image/reetututeja/rstudio-snapatac.svg)](https://microbadger.com/images/reetututeja/rstudio-snapatac) | [![Docker Pulls](https://img.shields.io/docker/pulls/reetututeja/rstudio-snapatac?color=blue&logo=docker&logoColor=white)](https://hub.docker.com/r/reetututeja/rstudio-snapatac) | [![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/reetututeja/rstudio-snapatac?color=blue&logo=docker&logoColor=white)](https://hub.docker.com/r/reetututeja/rstudio-snapatac) | [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/reetututeja/rstudio-snapatac?color=blue&logo=docker&logoColor=white)](https://hub.docker.com/r/reetututeja/rstudio-snapatac)
 
 # Instructions
 
