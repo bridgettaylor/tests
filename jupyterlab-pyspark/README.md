@@ -4,7 +4,7 @@
 
 Jupyter Lab base Docker container recipe based on [Jupyter datascience-notebook](https://hub.docker.com/r/jupyter/base-notebook) for [CyVerse VICE](https://cyverse-visual-interactive-computing-environment.readthedocs-hosted.com/en/latest/index.html). VICE requires additional configuration files to be compatible with our Condor and Kubernetes orchestration. 
 
-[![CircleCI](https://circleci.com/gh/cyverse-vice/jupyterlab-psypark.svg?style=svg)](https://circleci.com/gh/cyverse-vice/jupyterlab-psypark)[![DockerHub](https://img.shields.io/badge/DockerHub-brightgreen.svg?style=popout&logo=Docker)](https://hub.docker.com/r/cyversevice/rstudio-base)
+[![CircleCI](https://circleci.com/gh/cyverse-vice/jupyterlab-psypark.svg?style=svg)](https://circleci.com/gh/cyverse-vice/jupyterlab-psypark)[![DockerHub](https://img.shields.io/badge/DockerHub-brightgreen.svg?style=popout&logo=Docker)](https://hub.docker.com/r/cyversevice/jupyterlab-pyspark)
 
 
 quick launch | tag | size | metrics | build | status |  
