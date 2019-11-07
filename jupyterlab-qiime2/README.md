@@ -10,14 +10,14 @@ Plugin-based system — your favorite microbiome methods all in one place.
 There are multiple versions of this app with the latest version being 2019.7.
 You can access this app on the cyverse website. 
 
-[![CircleCI](https://circleci.com/gh/cyverse-vice/Jupyterlab-qiime2.svg?style=svg)](https://circleci.com/gh/cyverse-vice/Jupyterlab-qiime2) [![DockerHub](https://img.shields.io/badge/DockerHub-brightgreen.svg?style=popout&logo=Docker)](https://hub.docker.com/r/alyssacochran/q2_vice)
+[![CircleCI](https://circleci.com/gh/cyverse-vice/jupyterlab-qiime2.svg?style=svg)](https://circleci.com/gh/cyversevice/jupyterlab-qiime2) [![DockerHub](https://img.shields.io/badge/DockerHub-brightgreen.svg?style=popout&logo=Docker)](https://hub.docker.com/r/alyssacochran/q2_vice)
 
 
 quick launch | tag | size | metrics | build | status |  
 ------------ | --- | ---- | ------- | ------|--------|
 <a href="https://de.cyverse.org/de/?type=quick-launch&quick-launch-id=b1232ba3-311a-4c8a-b9bf-fb3f5fdcbeea&app-id=827928ce-5649-11e9-8f31-008cfa5ae621" target="_blank"><img src="https://de.cyverse.org/Powered-By-CyVerse-blue.svg"></a> | [![TAG](https://images.microbadger.com/badges/version/cyverse/jupyterlab-qiime2:2018.11.svg)](https://microbadger.com/images/cyverse/jupyterlab-qiime2:2018.11) | [![](https://images.microbadger.com/badges/image/cyverse/jupyterlab-qiime2:2018.11.svg)](https://microbadger.com/images/cyverse/jupyterlab-qiime2:2018.11) | [![Docker Pulls](https://img.shields.io/docker/pulls/cyverse/jupyterlab-qiime2?color=blue&logo=docker&logoColor=white)](https://hub.docker.com/r/cyverse/jupyterlab-qiime2) | [![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/cyverse/jupyterlab-qiime2?color=blue&logo=docker&logoColor=white)](https://hub.docker.com/r/cyverse/jupyterlab-qiime2) | [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/cyverse/jupyterlab-qiime2?color=blue&logo=docker&logoColor=white)](https://hub.docker.com/r/cyverse/jupyterlab-qiime2)
 [![VICE](https://img.shields.io/badge/CyVerse-VICE-blue.svg?style=popout&logo=Docker&color=#1488C6)]()  | [![TAG](https://images.microbadger.com/badges/version/cyverse/jupyterlab-qiime2:2018.11-1.svg)](https://microbadger.com/images/cyverse/jupyterlab-qiime2:2018.11-1) | [![SIZE](https://images.microbadger.com/badges/image/cyverse/jupyterlab-qiime2:2018.11-1.svg)](https://microbadger.com/images/cyverse/jupyterlab-qiime2:2018.11-1) | [![Docker Pulls](https://img.shields.io/docker/pulls/cyverse/jupyterlab-qiime2?color=blue&logo=docker&logoColor=white)](https://hub.docker.com/r/cyverse/jupyterlab-qiime2) | [![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/cyverse/jupyterlab-qiime2?color=blue&logo=docker&logoColor=white)](https://hub.docker.com/r/cyverse/jupyterlab-qiime2) | [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/cyverse/jupyterlab-qiime2?color=blue&logo=docker&logoColor=white)](https://hub.docker.com/r/cyverse/jupyterlab-qiime2)
-[![VICE](https://img.shields.io/badge/CyVerse-VICE-blue.svg?style=popout&logo=Docker&color=#1488C6)]() | [![TAG](https://images.microbadger.com/badges/version/cyverse/jupyterlab-qiime2:2019.7.svg)](https://microbadger.com/images/cyverse/jupyterlab-qiime2:2019.7)
+
 
 # Instructions
 
