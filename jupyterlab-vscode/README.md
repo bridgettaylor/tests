@@ -2,7 +2,7 @@
 
 # jupyterlab with VS code
 
-## INFO
+## Docker image with JupyterLab + VSCode Server for browser-based editing.
 
 [![CircleCI](https://circleci.com/gh/cyverse-vice/jupyterlab-vscode.svg?style=svg)](https://circleci.com/gh/cyverse-vice/jupyterlab-vscode)[![DockerHub](https://img.shields.io/badge/DockerHub-brightgreen.svg?style=popout&logo=Docker)](https://hub.docker.com/r/cyversevice/jupyterlab-vscode)
 
